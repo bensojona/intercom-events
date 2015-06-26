@@ -95,7 +95,7 @@ function setButtons(events, intercomId, intercomAppKey, intercomApiKey) {
 
 		btn = document.createElement("button");
 		btn.id = event.replace(/ /g, "_").toUpperCase();
-		btn.innerHTML = "Send " + toTitleCase(event.replace(/_/g, " ")) + " Event";
+		btn.innerHTML = "Send \"" + toTitleCase(event.replace(/_/g, " ")) + "\" Event";
 		btnContainer.appendChild(btn);
 		eventButtons.appendChild(btnContainer);
 
