@@ -1,5 +1,5 @@
 # Intercom Events
-Chrome extension to easily track sales funnel events in Intercom. 
+[Chrome extension](https://chrome.google.com/webstore/detail/intercom-events/bpabdahpjlcjebbjokmbbaklmglijapa) to easily track sales funnel events in Intercom. 
 
 1.) Enter your Intercom App and API Keys in the appropriate text boxes, these will only need to be entered once (get keys here --> https://doc.intercom.io/api/#authorization)
 
@@ -10,3 +10,5 @@ Chrome extension to easily track sales funnel events in Intercom.
 4.) Open the Intercom Event Chrome Extension and click the appropriate event button, refresh the page, and you will see your new event in the "Activity" section
 
 Now you will easily be able to create a report that better tracks how users are moving through your sales funnel by doing interval reporting on the date/time of each of these events!
+
+![Chrome Extension Screenshot](images/screenshot.png)
